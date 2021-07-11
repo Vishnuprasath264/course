@@ -1,0 +1,17 @@
+body{
+	font-family: ;
+}
+section{
+	background-color: darkgray;
+	border: 5px;
+}
+#Chicken{
+	background-color: pink;
+}
+#Beef{
+	background-color: red;
+	color: white;
+}
+#Sushi{
+	background-color: yellow;
+}
