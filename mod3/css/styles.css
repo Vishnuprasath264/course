@@ -1,6 +1,6 @@
 body{
 	font-size: 16px;	
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   background-color: indianred;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
