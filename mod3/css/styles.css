@@ -37,15 +37,14 @@ body{
   border-bottom:0;
 }
 #nav-list li{
-  background: orange;
+  background: brown;
   border-bottom: 2px black solid;
 }
 #nav-list li:nth-child(3){
   border-bottom:0;
 }
 #nav-list li a{
-  color: black;
-  font-weight: 600;
+  color: gold;
   line-height: 8px
 }
 .menu{
